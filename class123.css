@@ -1,0 +1,49 @@
+.class1{
+color: hotpink;
+font-family:helvetica;
+font-size:15pt;
+} 
+
+.class2{
+color: hotpink;
+font-family: helvetica;
+font-size:25pt;
+text-align: center;
+}
+
+.class3{
+color: black;
+font-family: helvetica;
+font-style: italic
+font-size:35pt;
+}
+
+.class4{
+color: black;
+font-family: inherit;
+font-size: 12pt;
+text-align: center
+}
+
+
+#divleft{
+ 
+    float: left;
+    text-align: center;
+
+}
+
+#divmiddle{
+    
+    float: none;
+    text-align: center;
+   
+    
+}
+
+#divright{
+    
+    float: right;
+    text-align: center;
+
+}
